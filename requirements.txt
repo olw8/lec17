@@ -7,4 +7,4 @@ streamlit_folium
 jinja2
 altair==5.0.1
 opencv-python==4.11.0.86
-pygwalker.api.streamlit
+pygwalker==0.4.9.14
