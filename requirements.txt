@@ -5,7 +5,8 @@ pymssql
 folium
 streamlit_folium
 jinja2
-altair
+altair==5.0.1
 urllib
 cv2
 os
+pygwalker.api.streamlit
