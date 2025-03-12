@@ -2,7 +2,6 @@ pyodbc
 pandas
 sqlalchemy
 pymssql
-pygwalker
 folium
 streamlit_folium
 jinja2
