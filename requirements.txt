@@ -1,0 +1,5 @@
+pyodbc
+pandas
+sqlalchemy
+pymssql
+pygwalker.api.streamlit
