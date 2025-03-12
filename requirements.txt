@@ -3,3 +3,10 @@ pandas
 sqlalchemy
 pymssql
 pygwalker.api.streamlit
+folium
+streamlit_folium
+jinja2
+altair
+urllib
+cv2
+os
