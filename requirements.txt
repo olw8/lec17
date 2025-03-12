@@ -6,7 +6,6 @@ folium
 streamlit_folium
 jinja2
 altair==5.0.1
-urllib
 cv2
 os
 pygwalker.api.streamlit
